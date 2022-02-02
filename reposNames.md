@@ -14,8 +14,8 @@ Quando o repositório for referente à aplicação completa, finalizada, recebe 
 
 Tipos disponíveis:
 
-| --- | --- |
 | IDENTIFICADOR | DESCRIÇÃO |
+| --- | --- |
 | **CO** | Componente |
 | **LIB** | Biblioteca |
 | Nº proj | Número identificador do projeto |
@@ -24,8 +24,8 @@ Tipos disponíveis:
 
 Identifica a plataforma para a qual foi programado
 
-| --- | --- |
 | IDENTIFICADOR | DESCRIÇÃO |
+| --- | --- |
 | **W** | Web (página web) |
 | **D** | Desktop |
 | **M** | Mobile  (App) |
@@ -35,8 +35,8 @@ Identifica a plataforma para a qual foi programado
 
 Identifica a linguagem ou framework utilizado.
 
-| --- | --- |
 | IDENTIFICADOR | DESCRIÇÃO |
+| --- | --- |
 | **CS** | C# (.NET) |
 | **CPP** | C++ |
 | **JS** | Javascript puro |
@@ -59,8 +59,8 @@ Repositórios para exposição de dados gerais. Geralmente públicos.
 
 Tipos disponíveis:
 
-| --- | --- |
 | IDENTIFICADOR | DESCRIÇÃO |
+| --- | --- |
 | **WIKI** | Repositório de informação. Geralmente público. |
 | **HELP** | Repositório de ajuda. Sempre público. |
 
