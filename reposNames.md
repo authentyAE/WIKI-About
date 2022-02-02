@@ -8,7 +8,8 @@ Todos nossos repositórios são nomeados seguindo o modelo disposto abaixo:
 
 ~~teste~~
 
+<style>
 s { text-decoration:none; }
 s { color: green }
-
+</style>
 ~~teste~~
