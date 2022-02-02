@@ -45,7 +45,7 @@ Identifica a linguagem ou framework utilizado.
 | **ELC** | Electron (html, css, e js) |
 | **REACT** | React (html, css, e js ou ts) |
 | **PHP** | PHP |
-| **WEB** | HTML, CSS, JS e PHP |
+| **FULL** | HTML, CSS, JS e PHP |
 
 
 ## Repositórios de dados
