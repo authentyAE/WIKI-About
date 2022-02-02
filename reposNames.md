@@ -64,6 +64,7 @@ Tipos disponíveis:
 | --- | --- |
 | **WIKI** | Repositório de informação. Geralmente público. |
 | **REC** | Recursos diversos (instaladores, etc.). Públicos. |
+| **RECP** | Recursos diversos (imegens, etc.). Privados. |
 | **HELP** | Repositório de ajuda. Sempre público. |
 | **INT** | Dados internos. Sempre PRIVADO. |
 
