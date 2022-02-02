@@ -62,6 +62,7 @@ Tipos disponíveis:
 | IDENTIFICADOR | DESCRIÇÃO |
 | --- | --- |
 | **WIKI** | Repositório de informação. Geralmente público. |
+| **REC** | Recursos diversos (instaladores, etc.). Públicos. |
 | **HELP** | Repositório de ajuda. Sempre público. |
 | **INT** | Dados internos. Sempre PRIVADO. |
 
