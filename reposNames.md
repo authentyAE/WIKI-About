@@ -63,5 +63,6 @@ Tipos disponíveis:
 | --- | --- |
 | **WIKI** | Repositório de informação. Geralmente público. |
 | **HELP** | Repositório de ajuda. Sempre público. |
+| **INT** | Dados internos. Sempre PRIVADO. |
 
 
