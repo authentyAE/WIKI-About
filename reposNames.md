@@ -18,6 +18,7 @@ Tipos disponíveis:
 | --- | --- |
 | **CO** | Componente |
 | **LIB** | Biblioteca |
+| **SR** | Serviço |
 | Nº proj | Número identificador do projeto |
 
 ### [Plataforma]
