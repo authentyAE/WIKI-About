@@ -44,7 +44,8 @@ Identifica a linguagem ou framework utilizado.
 | **NDJS** | Node JS, puro |
 | **HTML** | HTML puro |
 | **ELC** | Electron (html, css, e js) |
-| **REACT** | React (html, css, e js ou ts) |
+| **REACT** | React (html, css, e js) |
+| **REACTTS** | React (html, css, e ts) |
 | **PHP** | PHP |
 | **FULL** | HTML, CSS, JS e PHP |
 
